@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "Instagram Allow Stalker",
+  "description": "Extensão que libera a navegação em um perfil do Instagram quando o usuário não está logado",
+  "author": "Rafael de Medeiros Mendes",
+  "browser_action": {
+    "default_title": "Instagram Allow Stalker",
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
